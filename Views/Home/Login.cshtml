@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+}
+<div class="login-form-container">
+    <i class="fas fa-times" id="form-close"></i>
+    <form action="">
+        <h3>Đăng Nhập</h3>
+        <input type="email" class="box" placeholder="Nhập email">
+        <input type="password" class="box" placeholder="Nhập password">
+        <input type="submit" value="Đăng nh" class="btn">
+        <input type="checkbox" id="remember">
+        <label for="remember">Ghi nhớ tài khoản</label>
+        <p>Quên mật khẩu? <a href="#">Ấn vào đây</a></p>
+        <p>Chưa có tài khoản? <a asp-area="" asp-controller="Home" asp-action="Register">Đăng ký</a></p>
+    </form>
+</div>

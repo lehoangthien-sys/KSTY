@@ -1,0 +1,88 @@
+D:\Downloads\KSTY\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\KSTY\bin\Debug\net6.0\appsettings.json
+D:\Downloads\KSTY\bin\Debug\net6.0\KSTY.staticwebassets.runtime.json
+D:\Downloads\KSTY\bin\Debug\net6.0\KSTY.exe
+D:\Downloads\KSTY\bin\Debug\net6.0\KSTY.deps.json
+D:\Downloads\KSTY\bin\Debug\net6.0\KSTY.runtimeconfig.json
+D:\Downloads\KSTY\bin\Debug\net6.0\KSTY.dll
+D:\Downloads\KSTY\bin\Debug\net6.0\KSTY.pdb
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.csproj.AssemblyReference.cache
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.AssemblyInfoInputs.cache
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.AssemblyInfo.cs
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.csproj.CoreCompileInputs.cache
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.RazorAssemblyInfo.cache
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.RazorAssemblyInfo.cs
+D:\Downloads\KSTY\obj\Debug\net6.0\staticwebassets\msbuild.KSTY.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\KSTY\obj\Debug\net6.0\staticwebassets\msbuild.build.KSTY.props
+D:\Downloads\KSTY\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KSTY.props
+D:\Downloads\KSTY\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KSTY.props
+D:\Downloads\KSTY\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Downloads\KSTY\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\KSTY\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\KSTY\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\KSTY\obj\Debug\net6.0\scopedcss\bundle\KSTY.styles.css
+D:\Downloads\KSTY\obj\Debug\net6.0\scopedcss\projectbundle\KSTY.bundle.scp.css
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.dll
+D:\Downloads\KSTY\obj\Debug\net6.0\refint\KSTY.dll
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.pdb
+D:\Downloads\KSTY\obj\Debug\net6.0\KSTY.genruntimeconfig.cache
+D:\Downloads\KSTY\obj\Debug\net6.0\ref\KSTY.dll
+D:\Desktop\ProFileGit\New folder\bin\Debug\net6.0\appsettings.Development.json
+D:\Desktop\ProFileGit\New folder\bin\Debug\net6.0\appsettings.json
+D:\Desktop\ProFileGit\New folder\bin\Debug\net6.0\KSTY.staticwebassets.runtime.json
+D:\Desktop\ProFileGit\New folder\bin\Debug\net6.0\KSTY.exe
+D:\Desktop\ProFileGit\New folder\bin\Debug\net6.0\KSTY.deps.json
+D:\Desktop\ProFileGit\New folder\bin\Debug\net6.0\KSTY.runtimeconfig.json
+D:\Desktop\ProFileGit\New folder\bin\Debug\net6.0\KSTY.dll
+D:\Desktop\ProFileGit\New folder\bin\Debug\net6.0\KSTY.pdb
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.csproj.AssemblyReference.cache
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.AssemblyInfoInputs.cache
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.AssemblyInfo.cs
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.csproj.CoreCompileInputs.cache
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.RazorAssemblyInfo.cache
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.RazorAssemblyInfo.cs
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\scopedcss\bundle\KSTY.styles.css
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\scopedcss\projectbundle\KSTY.bundle.scp.css
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.dll
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\refint\KSTY.dll
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.pdb
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\KSTY.genruntimeconfig.cache
+D:\Desktop\ProFileGit\New folder\obj\Debug\net6.0\ref\KSTY.dll
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\bin\Debug\net6.0\appsettings.json
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\bin\Debug\net6.0\KSTY.staticwebassets.runtime.json
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\bin\Debug\net6.0\KSTY.exe
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\bin\Debug\net6.0\KSTY.deps.json
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\bin\Debug\net6.0\KSTY.runtimeconfig.json
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\bin\Debug\net6.0\KSTY.dll
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\bin\Debug\net6.0\KSTY.pdb
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.csproj.AssemblyReference.cache
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.AssemblyInfoInputs.cache
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.AssemblyInfo.cs
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.csproj.CoreCompileInputs.cache
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.RazorAssemblyInfo.cache
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.RazorAssemblyInfo.cs
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\staticwebassets\msbuild.KSTY.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\staticwebassets\msbuild.build.KSTY.props
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KSTY.props
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KSTY.props
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\scopedcss\bundle\KSTY.styles.css
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\scopedcss\projectbundle\KSTY.bundle.scp.css
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.dll
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\refint\KSTY.dll
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.pdb
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\KSTY.genruntimeconfig.cache
+D:\Downloads\KSTY-fix-bug\KSTY-fix-bug\obj\Debug\net6.0\ref\KSTY.dll
